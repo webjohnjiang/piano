@@ -13,6 +13,8 @@ Web钢琴键盘，支持音程，和弦，调式等的动态计算；基于其�
 * 自动计算根音，主因
 * 自动检测和弦类型；智能和弦构建
 
+You can view the demo at <https://cuiyongjian.github.io/piano/>
+
 
 ## 音阶数据结构
 ``` javascript

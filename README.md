@@ -1,6 +1,6 @@
 # piano
 
-> intelligent pizno
+> intelligent piano
 
 ## Build Setup
 
